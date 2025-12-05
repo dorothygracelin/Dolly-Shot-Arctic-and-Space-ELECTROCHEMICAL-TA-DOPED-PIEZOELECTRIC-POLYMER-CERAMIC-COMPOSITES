@@ -85,9 +85,9 @@ Sustainable power generation in extreme conditions
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
-│   🌐 Climate Research    │    🛸 Space Exploration             │
-│   🏔️ Arctic Communities  │    🌙 Lunar & Mars Missions         │
-│   🔬 Scientific Discovery│    🚀 Commercial Spaceflight        │
+│   🌐 Climate Research     │    🛸 Space Exploration            │
+│   🏔️ Arctic Communities   │    🌙 Lunar & Mars Missions        │
+│   🔬 Scientific Discovery │    🚀 Commercial Spaceflight       │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
