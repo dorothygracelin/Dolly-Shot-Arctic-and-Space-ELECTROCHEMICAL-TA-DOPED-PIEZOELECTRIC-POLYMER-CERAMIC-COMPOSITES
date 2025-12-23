@@ -14,4 +14,4 @@ This is an abstract that has been shared with Brown University and the Society o
 <tr>
 <td width="100%">
 
-## 📋 Abstract
+## [📋 Abstract] (https://github.com/dorothygracelin/Dolly-Shot-Arctic-and-Space-ELECTROCHEMICAL-TA-DOPED-PIEZOELECTRIC-POLYMER-CERAMIC-COMPOSITES/blob/main/DLLargeionicradiusECPZabstract.pdf)
